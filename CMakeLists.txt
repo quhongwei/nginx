@@ -3,6 +3,7 @@ project(nginx)
 
 #set(CMAKE_C_STANDARD 99)
 set(CMAKE_C_FLAGS "-pipe -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations")
+set(CMAKE_C_FLAGS "-pipe -Wall -Wextra -Wpointer-arith -Wno-unused-parameter -Wno-deprecated-declarations")
 
 #add_definitions(-DNGX_HTTP_UPSYNC_MODULE=0)
 
