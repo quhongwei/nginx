@@ -7,7 +7,9 @@ set(CMAKE_C_FLAGS "-pipe -Wall -Wextra -Wpointer-arith -Wno-unused-parameter -Wn
 
 #add_definitions(-DNGX_HTTP_UPSYNC_MODULE=0)
 
-include_directories(src/auto
+include_directories(
+		/usr/local/include
+		src/auto
         src/core
         src/event
         src/http

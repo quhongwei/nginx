@@ -5,3 +5,13 @@
 2018/01/02 13:19:09 [emerg] 52637#0: unknown directive "check" in /Users/admin/u51/learn/workspace/clion/nginx/build/conf/nginx.conf:34
 2018/01/02 13:24:48 [emerg] 53466#0: unknown directive "upsync" in /Users/admin/u51/learn/workspace/clion/nginx/build/conf/nginx.conf:31
 2018/01/02 13:25:28 [emerg] 53849#0: unknown directive "upsync" in /Users/admin/u51/learn/workspace/clion/nginx/build/conf/nginx.conf:31
+2021/09/06 11:47:59 [emerg] 26618#0: open() "/Users/admin/u51/learn/workspace/clion/nginx/build/conf/servers/servers_ng_rs_test.conf" failed (2: No such file or directory) in /Users/quhongwei/project/nginx-clion/nginx/build/conf/nginx.conf:33
+2021/09/06 11:48:35 [emerg] 26723#0: open() "/Users/admin/u51/learn/workspace/clion/nginx/build/conf/servers/servers_ng_rs_test.conf" failed (2: No such file or directory) in /Users/quhongwei/project/nginx-clion/nginx/build/conf/nginx.conf:33
+2021/09/06 11:48:38 [emerg] 26740#0: open() "/Users/admin/u51/learn/workspace/clion/nginx/build/conf/servers/servers_ng_rs_test.conf" failed (2: No such file or directory) in /Users/quhongwei/project/nginx-clion/nginx/build/conf/nginx.conf:33
+2021/09/06 11:49:36 [emerg] 26785#0: open() "/Users/admin/u51/learn/workspace/clion/nginx/build/conf/servers/servers_ng_rs_test.conf" failed (2: No such file or directory) in /Users/quhongwei/project/nginx-clion/nginx/build/conf/nginx.conf:33
+2021/09/06 11:49:56 [emerg] 26810#0: open() "/Users/admin/u51/learn/workspace/clion/nginx/build/conf/servers/servers_ng_rs_test.conf" failed (2: No such file or directory) in /Users/quhongwei/project/nginx-clion/nginx/build/conf/nginx.conf:33
+2021/09/06 11:50:38 [emerg] 27691#0: open() "/Users/admin/u51/learn/workspace/clion/nginx/build/conf/servers/servers_ng_rs_test.conf" failed (2: No such file or directory) in /Users/quhongwei/project/nginx-clion/nginx/build/conf/nginx.conf:33
+2021/09/06 11:51:41 [emerg] 28637#0: open() "/Users/admin/u51/learn/workspace/clion/nginx/build/conf/servers/servers_ng_rs_test.conf" failed (2: No such file or directory) in /Users/quhongwei/project/nginx-clion/nginx/build/conf/nginx.conf:33
+2021/09/06 11:52:21 [emerg] 28660#0: open() "/Users/admin/u51/learn/workspace/clion/nginx/build/conf/servers/servers_ng_rs_test.conf" failed (2: No such file or directory) in /Users/quhongwei/project/nginx-clion/nginx/build/conf/nginx.conf:33
+2021/09/06 20:53:16 [emerg] 35940#0: no servers are inside upstream in /Users/quhongwei/project/nginx-clion/nginx/build/conf/nginx.conf:37
+2021/09/06 20:56:18 [emerg] 36019#0: unexpected ";" in /Users/quhongwei/project/nginx-clion/nginx/build/conf/nginx.conf:30
